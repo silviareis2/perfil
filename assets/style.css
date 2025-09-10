@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: beige;
+}
+
+.cabecalho {
+   width: 90%;
+   margin: auto;
+   padding: 10px;
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+img {
+   width: 150px;
+   height: 150px;
+   border: 3px solid blue;
+   border-radius: 50%;
+   margin: auto;
+}
+
+p {
+   text-align: justify;
+}
+
+h1 {
+   margin-bottom: 10px;
+   font-family: "Roboto", sans-serif;
+   font-style: italic;
+   color: #5709ff;
+}
+
+main {
+   max-width: 400px;
+   width: 100%;
+   margin: 20px auto 0;
+   background-color: #ffffff;
+   border-radius: 20px;
+   padding-bottom: 12px;
+   /* espaço pro conteúdo */
+   box-shadow: 0 4px 12px rgba(11, 1, 1, 0.413);
+   font-family: "Roboto", sans-serif;
+}
+
+.progress {
+   display: flex;
+   flex-direction: column;
+   gap: 12px;
+   /* espaçamento entre itens */
+   width: 90%;
+   max-width: 500px;
+   margin: 0 auto;
+   padding: 10px;
+}
+
+
+
+.progress .html progress {
+   display: flex;
+   accent-color: #120fc593;
+   width: 100%;
+
+}
+
+.progress .css progress {
+   display: flex;
+   accent-color: #996804;
+   width: 100%;
+}
+
+.progress .js progress {
+   display: flex;
+   accent-color: #047f17;
+   width: 100%;
+}
+
+.botao {
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+
+}
+
+.botao a {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100px;
+   padding: 8px 16px;
+   margin: 10px;
+   background-color: #008000;
+   /* verde em hex */
+   border-radius: 10px;
+   text-decoration: none;
+   color: #fff;
+   font-size: 16px;
+   transition: all .25s ease;
+}
+
+.botao a:hover {
+   background-color: #5709ff;
+   transform: scale(1.05);
+}
+
+footer {
+   display: flex;
+   justify-content: center;
+}
+
+footer a {
+   text-decoration: none;
+   color: #008000;
+}
+
+footer a:hover {
+   transform: scale(1.05);
+   color: #5709ff;
+   text-decoration: underline;
+}
