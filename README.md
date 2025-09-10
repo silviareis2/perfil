@@ -29,13 +29,13 @@ Cada uma dessas habilidades está em constante evolução, e estou sempre buscan
 Você pode acessar meu portfólio online através dos seguintes links:
 
 - **Repositório no GitHub**: [https://github.com/Silviareis1/Silviareis1](https://github.com/Silviareis1/Silviareis1)
-- **Visualizar o Projeto no GitHub Pages**: [https://silviareis1.github.io/](https://silviareis1.github.io/) (link de exemplo, substitua com seu link real)
+- **Visualizar o Projeto no GitHub Pages**: [https://silviareis1.github.io/](https://silviareis2.github.io/perfil/)
 
 ## 📸Print do Projeto
 
 Veja uma captura de tela do projeto abaixo:
 
-![Print do Projeto](screencapture.png)  
+![Print do Projeto](./assets/screencapture.png)  
 *(Substitua o link "link-para-o-print-do-projeto.png" com o caminho real para a imagem ou o link onde o print está hospedado.)*
 
 ## 📲Contato
